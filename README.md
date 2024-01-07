@@ -18,9 +18,7 @@ The `NeuronNetworkWork` method is responsible for the neural network's operation
 
 ### Activation Function
 
-The activation function used in this simulation is the sigmoid function, defined as:
-
-\[ Sigmoid(S) = \frac{1}{1 + e^{-S}} \]
+The activation function used in this simulation is the sigmoid function.
 
 ### How to Use
 
